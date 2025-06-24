@@ -1,0 +1,1 @@
+Este archivo simula a un .gitignore.
