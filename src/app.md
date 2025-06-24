@@ -1,0 +1,1 @@
+Este archivo simula una aplicación en el repositorio git.
