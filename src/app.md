@@ -11,6 +11,3 @@ Este cambio simula una refactorización en el código. Más específicamente, se
 
 # Cambio 4
 Este cambio simula la integración de una nueva feature. Ahora se puede iniciar sesión con username además de email.
-
-# Cambio 5
-Este cambio simula un breaking change. Ahora el proyecto no soporta inicio de sesión sin contraseña, por lo tanto ya no es compatible con versiones pasadas.
