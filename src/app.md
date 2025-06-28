@@ -8,3 +8,6 @@ Este cambio simula el corregimiento de un error hallado confeatures en el login 
 
 # Cambio 3
 Este cambio simula una refactorización en el código. Más específicamente, se movió la validación de usuario a una función separada.
+
+# Cambio 4
+Este cambio simula la integración de una nueva feature. Ahora se puede iniciar sesión con username además de email.
