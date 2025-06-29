@@ -19,4 +19,7 @@ Este cambio simula un breaking change. Ahora el proyecto no soporta inicio de se
 Este cambio simula el arreglo de un bug. Anteriormente el botón de login no funcionaba correctamente, se corrigió.
 
 # Cambio 7
-Este cambio simula el uso de un token local para poder recordar la sesión
+Este cambio simula el uso de un token local para poder recordar la sesión.
+
+# Cambio 8
+Este cambio simula un breaking change. El login no podrá hacerse más con un username, ahora es obligatorio usar el email para logearse.
