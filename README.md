@@ -6,3 +6,6 @@ Este cambio simula la integración de una guía de instalación como documentaci
 
 # Cambio 2 
 Este cambio simula la integración de ejemplos de uso del login como documentación.
+
+# Cambio 4
+Este cambio documenta cómo interpretar los mensajes de commit bajo el formato de Conventional Commits.
