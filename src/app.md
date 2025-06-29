@@ -23,3 +23,6 @@ Este cambio simula el uso de un token local para poder recordar la sesión.
 
 # Cambio 8
 Este cambio simula un breaking change. El login no podrá hacerse más con un username, ahora es obligatorio usar el email para logearse.
+
+# Cambio 9
+Este cambio simula una nueva funcionalidad: exportar datos como CSV.
