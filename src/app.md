@@ -14,3 +14,6 @@ Este cambio simula la integración de una nueva feature. Ahora se puede iniciar 
 
 # Cambio 5
 Este cambio simula un breaking change. Ahora el proyecto no soporta inicio de sesión sin contraseña, por lo tanto ya no es compatible con versiones pasadas.
+
+# Cambio 6
+Este cambio simula el arreglo de un bug. Anteriormente el botón de login no funcionaba correctamente, se corrigió.
