@@ -17,3 +17,6 @@ Este cambio simula un breaking change. Ahora el proyecto no soporta inicio de se
 
 # Cambio 6
 Este cambio simula el arreglo de un bug. Anteriormente el botón de login no funcionaba correctamente, se corrigió.
+
+# Cambio 7
+Este cambio simula el uso de un token local para poder recordar la sesión
