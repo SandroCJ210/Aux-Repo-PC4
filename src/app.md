@@ -32,3 +32,7 @@ Este cambio simula la integración de una nueva feature, agrega función para re
 
 # Cambio 11
 Este cambio introduce un breaking change: se eliminó el soporte para login con redes sociales, por lo tanto, no es compatible con versiones anteriores.
+
+# Cambio 12  
+Este cambio soluciona un error en el botón de exportación que no respondía al hacer clic.
+
