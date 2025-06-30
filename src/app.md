@@ -26,3 +26,6 @@ Este cambio simula un breaking change. El login no podrá hacerse más con un us
 
 # Cambio 9
 Este cambio simula una nueva funcionalidad: exportar datos como CSV.
+
+# Cambio 10
+Este cambio simula la integración de una nueva feature, agrega función para resetear contraseña.
