@@ -29,3 +29,6 @@ Este cambio simula una nueva funcionalidad: exportar datos como CSV.
 
 # Cambio 10
 Este cambio simula la integración de una nueva feature, agrega función para resetear contraseña.
+
+# Cambio 11
+Este cambio introduce un breaking change: se eliminó el soporte para login con redes sociales, por lo tanto, no es compatible con versiones anteriores.
